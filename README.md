@@ -30,4 +30,4 @@ Este conjunto de datos proporciona una visión completa de las transacciones de 
 ### 💻 Proceso
 1. **Recolección:** Recolectar información clave para el negocio mediante queries en SQL.
 2. **Recopilación:** Recopilar la información principal obtenida del análisis.
-3. **Presentación:** Presentar los insights en un dashboard dinámico para mejor comprensión.
+3. **Presentación:** Presentar los insights en un reporte que destaque los resultados obtenidos del análisis.
